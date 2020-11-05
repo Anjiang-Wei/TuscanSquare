@@ -1,4 +1,4 @@
-class tuscan {
+class Tuscan {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
         if (n == 3 || n == 5) {
